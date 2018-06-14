@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"repository": "sindresorhus/got",
 	"engines": {
-		"node": ">=8.6"
+		"node": ">= 8.6"
 	},
 	"scripts": {
 		"test": "xo && nyc ava",
